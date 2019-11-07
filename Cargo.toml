@@ -9,6 +9,7 @@ repository = "https://github.com/That3Percent/unordered-hash"
 readme = "README.md"
 keywords = ["hash"]
 categories = ["algorithms"]
+licence = "MIT"
 
 [badges]
 maintenance = { status = "actively-developed" }
