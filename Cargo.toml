@@ -1,0 +1,18 @@
+[package]
+name = "unordered-hash"
+version = "0.1.0"
+authors = ["That3Percent <that3percent@gmail.com>"]
+edition = "2018"
+description = "Hashes a set of items independent of their ordering"
+homepage = "https://github.com/That3Percent/unordered-hash"
+repository = "https://github.com/That3Percent/unordered-hash"
+readme = "README.md"
+keywords = ["hash"]
+categories = ["algorithms"]
+
+[badges]
+maintenance = { status = "actively-developed" }
+
+
+[dev-dependencies]
+rand = "0.7.2"
